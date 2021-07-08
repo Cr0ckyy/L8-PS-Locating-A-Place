@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">L8 PS Locating a Place</string>
+    <string-array name="branches">
+        <item>Select Branches</item>
+        <item>North - HQ</item>
+        <item>Central</item>
+        <item>East</item>
+    </string-array>
+</resources>

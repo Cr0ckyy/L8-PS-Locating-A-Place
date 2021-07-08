@@ -1,0 +1,2 @@
+rootProject.name = "L8 PS Locating a Place"
+include ':app'
